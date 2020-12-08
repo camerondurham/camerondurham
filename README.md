@@ -1,12 +1,13 @@
 ### Hi there ✌
 
-- 🌱 I’m currently learning Rust, Go, and some Kubernetes
-- 😄 Pronouns: he/they
-- ⚡ Fun fact: I've on the 3 coasts of the United States!
+- 🔭 I’m currently working on a little Docker API wrapper in Golang
 
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&hide=php,html&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=camerondurham" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&hide=php,html&langs_count=10" />
+</a>
 
 
 <!--
