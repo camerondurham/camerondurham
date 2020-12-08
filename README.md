@@ -4,6 +4,8 @@
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: I've on the 3 coasts of the United States!
 
+</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham)](https://github.com/anuraghazra/github-readme-stats)
 
 
