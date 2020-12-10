@@ -1,8 +1,8 @@
 ### Hi there ✌
 
 - 🔭 I’m currently working on a little Docker environment manager in Golang
-- 🌱 I’m currently learning Rust
-- 😄 Pronouns: any!
+- 🌱 I’m currently trying to learn Rust
+- 😄 Pronouns: he/they
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
