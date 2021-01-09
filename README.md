@@ -1,6 +1,6 @@
 ### Hi there ✌
 
-- 🔭 I’m currently working on a little Docker environment manager in Golang
+- 🔭 I’m currently working on a Docker environment manager in Golang
 - 🌱 I’m currently trying to learn Rust
 - 😄 Pronouns: he/they
 
