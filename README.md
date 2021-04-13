@@ -1,12 +1,13 @@
 ### Hi there ✌
 
 - 🔭 I’m actively developing a Docker environment manager in Golang
-- 🌱 I’m currently trying to learn Rust
+- 🌱 I’m currently learning Rust and want to learn Zig
+- ⚡ I love C++!
 - 😄 Pronouns: he/they
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&hide=php,html&langs_count=5&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&hide=php,html&langs_count=5&layout=compact&theme=dark" />
 </a>
 
 
