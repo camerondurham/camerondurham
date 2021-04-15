@@ -1,10 +1,10 @@
-### Hi there ✌
+### Hi there ✌, I'm Cam
 
-- 🔭 I’m actively developing a Docker environment manager in Golang
-- 🌱 I’m currently learning Rust and want to learn Zig
-- ⚡ I love C++!
-- 😄 Pronouns: he/they
+I'm a senior Computer Science student at the University of Southern California. My pronouns are he/him/his or they/them/theirs.
+I'm actively maintaining a Docker environment manager written in Golang. I'm learning Rust and want to learn Zig but will
+always have a soft spot for C++.
 
+You can check out my website at [cmrn.xyz](https://cmrn.xyz), hosted on my Raspberry Pi.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&hide=php,html&langs_count=5&layout=compact&theme=dark" />
