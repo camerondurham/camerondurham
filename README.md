@@ -1,6 +1,6 @@
-### Hi there ✌, I'm Cam
+### hi there ✌, i'm cam
 
-I'm a senior Computer Science student at the University of Southern California. My pronouns are he/him/his or they/them/theirs.
+I'm a senior Computer Science student at the University of Southern California. My pronouns are [he/him/his](https://pronoun.is/he/.../himself) or [they/them/theirs](https://pronoun.is/they/.../themselves).
 I'm actively maintaining a Docker environment manager written in Golang. I'm learning Rust and want to learn Zig but will
 always have a soft spot for C++.
 
