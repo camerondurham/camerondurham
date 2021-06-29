@@ -1,7 +1,6 @@
 ### hi there, i'm cam ✌
 
-I studied Computer Science at the University of Southern California. I'm currently an SDE I at Amazon and work on data ingestion and distributed systems.
-My work here is my own and does not represent my employer. My pronouns are [he/him/his](https://pronoun.is/he/.../himself) or [they/them/theirs](https://pronoun.is/they/.../themselves). 
+I studied Computer Science at the University of Southern California. My pronouns are [he/him/his](https://pronoun.is/he/.../himself) or [they/them/theirs](https://pronoun.is/they/.../themselves). 
 I maintain a Docker environment manager written in Go that's used in [CSCI 104](https://github.com/csci104/docker) (USC's data structures
 and algorithms course). I'm learning Rust and want to learn Zig but will always have a soft spot for C++.
 
