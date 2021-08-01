@@ -1,17 +1,12 @@
 ### hi there, i'm cam
 
-I'm a [USC ✌️](https://usc.edu) Viterbi CS grad! My pronouns are [he/him/his](https://pronoun.is/he/.../himself) or [they/them/theirs](https://pronoun.is/they/.../themselves). 
-I maintain a [Docker](https://docker.com) environment manager written in [Go](https://golang.org/) that's used in [CSCI 104](https://github.com/csci104/docker) (USC's data structures
-and algorithms course). I'm learning [Rust](https://rustlang.org) and want to learn [Zig](https://ziglang.org/) but will always have a soft spot for C++.
+I graduated from [USC Viterbi ✌️](https://viterbischool.usc.edu/) in May '21! Currently, I'm a software engineer for Amazon and work on distributed data ingestion powering the Seller Central website. My pronouns are [he/him/his](https://pronoun.is/he/.../himself) and [they/them/theirs](https://pronoun.is/they/.../themselves). 
+I maintain a [Docker](https://docker.com) environment manager written in [Go](https://golang.org/) that was partially made for USC's data structures and algorithms course,
+[CSCI 104](https://github.com/csci104/docker).
+
+I'm learning [Rust](https://rustlang.org) and want to learn [Zig](https://ziglang.org/) but will always have a soft spot for C++.
 
 You can check out my website at [cmrn.xyz](https://cmrn.xyz), hosted on my Raspberry Pi.
-
-
-> *"Why doesn't Docker call their documentation the 'Docker Docks'."*
->
-> \- someone much smarter than me on tech twitter
-
-<br>
 
 
 <div>
