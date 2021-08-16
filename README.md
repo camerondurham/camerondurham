@@ -6,7 +6,7 @@ I maintain a [Docker](https://docker.com) environment manager written in [Go](ht
 
 I'm learning [Rust](https://rustlang.org) and want to learn [Zig](https://ziglang.org/) but will always have a soft spot for C++.
 
-You can check out my website at [cmrn.xyz](https://cmrn.xyz), hosted on my Raspberry Pi. Hoping to move it over to my new fancy URL: [u64.cam](http://u64.cam) 😎.
+You can check out my website at [cmrn.xyz](https://cmrn.xyz)/[u64.cam](http://u64.cam), hosted on my Raspberry Pi.
 
 
 <div>
