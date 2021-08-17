@@ -6,8 +6,7 @@ I maintain a [Docker](https://docker.com) environment manager written in [Go](ht
 
 I'm learning [Rust](https://rustlang.org) and want to learn [Zig](https://ziglang.org/) but will always have a soft spot for C++.
 
-You can check out my website at [cmrn.xyz](https://cmrn.xyz)/[u64.cam](http://u64.cam), hosted on my Raspberry Pi.
-
+You can check out my website at [cmrn.xyz](https://cmrn.xyz)/[u64.cam](http://u64.cam), hosted on my Raspberry Pi. I'll also shamelessly plug my [SO profile](https://stackoverflow.com/users/4676641/tentative) because I just got top 5% Docker answerer.
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
