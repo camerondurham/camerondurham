@@ -10,7 +10,7 @@ You can check out my website at [cmrn.xyz](https://cmrn.xyz)/[u64.cam](http://u6
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&hide=php,html,tex,python&langs_count=8&layout=compact&theme=light" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&hide=php,html,tex&langs_count=8&layout=compact&theme=light" />
 </a>
   
 </div>
