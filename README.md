@@ -6,7 +6,10 @@ I maintain a [Docker](https://docker.com) environment manager written in [Go](ht
 
 I'm learning [Rust](https://rustlang.org) and want to learn [Zig](https://ziglang.org/) but will always have a soft spot for C++.
 
-You can check out my website at [cmrn.xyz](https://cmrn.xyz)/[u64.cam](http://u64.cam), hosted on my Raspberry Pi.
+You can check out my website at [cmrn.xyz](https://cmrn.xyz)/[u64.cam](http://u64.cam), hosted on my Raspberry Pi. 
+
+
+My recent projects are hosted here on gh and/or listed on this page: [cmrn.xyz/projects](https://cmrn.xyz/projects.html)
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
