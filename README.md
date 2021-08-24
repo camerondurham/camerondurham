@@ -1,6 +1,6 @@
 ### hi there, i'm cam
 
-I graduated from [USC Viterbi ✌️](https://viterbischool.usc.edu/) in May '21! Currently, I'm a software engineer for Amazon and work on distributed data ingestion powering the Seller Central website. My pronouns are [he/him/his](https://pronoun.is/he/.../himself) and [they/them/theirs](https://pronoun.is/they/.../themselves). 
+I graduated from [USC Viterbi ✌️](https://viterbischool.usc.edu/) in May '21! Currently, I'm a software engineer for Amazon and work on distributed data ingestion powering the Seller Central website. My pronouns are [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself) . 
 I maintain a [Docker](https://docker.com) environment manager written in [Go](https://golang.org/) that was partially made for USC's data structures and algorithms course,
 [CSCI 104](https://github.com/csci104/docker).
 
