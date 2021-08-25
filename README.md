@@ -2,14 +2,9 @@
 
 I graduated from [USC Viterbi ✌️](https://viterbischool.usc.edu/) in May '21! Currently, I'm a software engineer for Amazon and work on distributed data ingestion powering the Seller Central website. My pronouns are [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself) . 
 I maintain a [Docker](https://docker.com) environment manager written in [Go](https://golang.org/) that was partially made for USC's data structures and algorithms course,
-[CSCI 104](https://github.com/csci104/docker).
+[CSCI 104](https://github.com/csci104/docker). I'm learning [Rust](https://rustlang.org) and want to learn [Zig](https://ziglang.org/) but will always like C++.
 
-I'm learning [Rust](https://rustlang.org) and want to learn [Zig](https://ziglang.org/) but will always have a soft spot for C++.
-
-You can check out my website at [cmrn.xyz](https://cmrn.xyz)/[u64.cam](http://u64.cam), hosted on my Raspberry Pi. 
-
-
-My recent projects are hosted here on gh and/or listed on this page: [cmrn.xyz/projects](https://cmrn.xyz/projects.html)
+My recent projects are hosted here on gh or listed here: [cmrn.xyz/projects](https://cmrn.xyz/projects.html)
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
