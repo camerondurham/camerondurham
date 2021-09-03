@@ -1,6 +1,6 @@
 ### hi there, i'm cam
 
-I graduated from [USC Viterbi ✌️](https://viterbischool.usc.edu/) in May '21 and now a SDE at Amazon. I work on a distributed data ingestion service powering the Seller Central website. My pronouns are [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself) . 
+I graduated from [USC Viterbi ✌️](https://viterbischool.usc.edu/) in May '21 and now a SDE at Amazon. I work on distributed data ingestion powering the Seller Central website. My pronouns are [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself) . 
 I maintain a Docker environment manager ([ch](https://github.com/camerondurham/ch)) written in [Go](https://golang.org/) that was partially made for USC's data structures and algorithms course, CSCI 104:
 [csci104/docker](https://github.com/csci104/docker). I'm learning [Rust](https://rustlang.org) and want to learn [Zig](https://ziglang.org/) but will always like C++.
 
