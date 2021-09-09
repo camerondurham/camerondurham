@@ -6,11 +6,10 @@ I maintain a Docker environment manager ([ch](https://github.com/camerondurham/c
 
 My recent projects are hosted here on gh or listed here: [u64.cam/projects](https://u64.cam/projects.html)
 
-<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&hide=php,html,tex&langs_count=6&layout=compact&theme=light" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camerondurham&theme=buefy&show_icons=true" />
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&hide=php,html,tex&langs_count=6&layout=compact&theme=buefy" />
 </a>
-</div>
 
 <!--
 **camerondurham/camerondurham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
