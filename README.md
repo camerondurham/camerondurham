@@ -2,7 +2,7 @@
 
 I graduated from [USC Viterbi ✌️](https://viterbischool.usc.edu/) in May '21 and now a SDE at Amazon. My pronouns are [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself). I'm learning Rust and want to learn Zig but will always like C++!
 
-Currently developing a Docker environment manager [ch](https://github.com/camerondurham/ch) written in [Go](https://golang.org/) and used in USC's data structures and algorithms course, CSCI 104: [csci104/docker](https://github.com/csci104/docker). My other recent projects are hosted here on gh or described here: [u64.cam/projects](https://u64.cam/projects.html)
+I'm currently developing a Docker environment manager [ch](https://github.com/camerondurham/ch) written in [Go](https://golang.org/) and used in USC's data structures and algorithms course, CSCI 104: [csci104/docker](https://github.com/csci104/docker). My other recent projects are hosted here on gh or described here: [u64.cam/projects](https://u64.cam/projects.html)
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
