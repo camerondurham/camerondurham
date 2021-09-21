@@ -1,6 +1,6 @@
 ### hi there, i'm cam
 
-I am a '21 [USC Viterbi ✌️](https://viterbischool.usc.edu/) grad and SDE at Amazon. My pronouns are [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself). I'm learning Rust and want to learn Zig but will always like C++!
+I am a '21 [USC Viterbi ✌️](https://viterbischool.usc.edu/) grad and SDE at Amazon. My pronouns are [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself). I'm learning Rust and want to learn Zig but will always like C++! I'm scared of Python without using all the string typing I can get. I don't trust myself with the language but its idioms are nice.
 
 I'm currently developing a Docker environment manager [ch](https://github.com/camerondurham/ch) written in [Go](https://golang.org/) and used in USC's data structures and algorithms course, CSCI 104: [csci104/docker](https://github.com/csci104/docker). My other recent projects are hosted here on gh or described here: [u64.cam/projects](https://u64.cam/projects.html)
 
