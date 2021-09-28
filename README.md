@@ -7,9 +7,10 @@ I'm currently developing a Docker environment manager [ch](https://github.com/ca
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camerondurham&theme=buefy&show_icons=true" />
-    <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&hide=php,html,tex&langs_count=6&layout=compact&theme=buefy" />
+    <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&hide=php,html,tex&langs_count=4&layout=compact&theme=buefy" />
   </a>
 </div>
+
 
 <!--
 **camerondurham/camerondurham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
