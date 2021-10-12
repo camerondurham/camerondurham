@@ -6,6 +6,8 @@ I'm maintaining a Docker environment manager [ch](https://github.com/camerondurh
 
 My non-public projects are described here: [u64.cam/projects](https://u64.cam/projects.html)
 
+In my spare time, I'll answer Docker questions on Stack Overflow: https://stackoverflow.com/users/story/4676641
+
 <div align="center">
   <!--
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&langs_count=4&layout=compact&theme=buefy">
