@@ -1,12 +1,18 @@
 ### hi there, i'm cam
 
-I am a '21 [USC Viterbi ✌️](https://viterbischool.usc.edu/) grad and SDE at Amazon. My pronouns are [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself). I'm learning Rust and Go, want to learn Zig, and will always like C++.
+:wave::  I am a '21 [USC Viterbi ✌️](https://viterbischool.usc.edu/) grad and SDE at Amazon. My pronouns are [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself). I'm learning Rust and Go, want to learn Zig, and will always like C++.
 
-I'm maintaining a Docker environment manager [ch](https://github.com/camerondurham/ch) written in Go and used in USC's data structures and algorithms course, CSCI 104: [csci104/docker](https://github.com/csci104/docker). Work keeps me pretty busy but that stuff isn't open source :).
+<br>
 
-My non-public projects are described here: [u64.cam/projects](https://u64.cam/projects.html)
+:whale: Currently maintain a Docker environment manager [ch](https://github.com/camerondurham/ch) written in Go and used in USC's data structures and algorithms course, CSCI 104: [csci104/docker](https://github.com/csci104/docker)
 
-In my spare time, I'll answer Docker questions on Stack Overflow: https://stackoverflow.com/users/story/4676641
+<br>
+
+:closed_lock_with_key:: Non-public projects are described here: [u64.cam/projects](https://u64.cam/projects.html)
+
+<br>
+
+:question:: In my spare time, I'll sometimes answer questions about Docker and such as on StackOverflow as user [tentative](https://stackoverflow.com/users/story/4676641)
 
 <div align="center">
   <!--
@@ -27,5 +33,4 @@ In my spare time, I'll answer Docker questions on Stack Overflow: https://stacko
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&hide=php,html&langs_count=5&layout=compact&theme=dark" />
 </a>
-
 -->
