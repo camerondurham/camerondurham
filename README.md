@@ -15,14 +15,16 @@
 :question:: In my spare time, I'll sometimes answer questions about Docker and such as on StackOverflow as user [tentative](https://stackoverflow.com/users/story/4676641)
 
 <div align="center">
-  <!--
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&langs_count=4&layout=compact&theme=buefy">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camerondurham&theme=buefy&show_icons=true" />
     <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&langs_count=4&layout=compact&theme=buefy" />
+
+  </a>
+  
+<!--
     <a href="https://u64.cam">
       <img src="https://komarev.com/ghpvc/?username=camerondurham" />
     </a>
-  </a>
   -->
   
 </div>
