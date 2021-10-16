@@ -12,7 +12,7 @@
 
 <br>
 
-:question:: In my spare time, I'll sometimes answer questions about Docker and such as on StackOverflow as user [tentative](https://stackoverflow.com/users/story/4676641)
+:question:: In my spare time, I'll sometimes answer questions about Docker and such as on StackOverflow. Here's my profile: [tentative](https://stackoverflow.com/users/story/4676641)
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&langs_count=8&layout=compact&theme=buefy">
