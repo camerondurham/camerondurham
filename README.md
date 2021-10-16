@@ -4,7 +4,7 @@
 
 <br>
 
-:whale: Currently maintain a Docker environment manager [ch](https://github.com/camerondurham/ch) written in Go and used in USC's data structures and algorithms course, CSCI 104: [csci104/docker](https://github.com/csci104/docker)
+:whale:: Currently I maintain a Docker environment manager [ch](https://github.com/camerondurham/ch) written in Go and used in USC's data structures and algorithms course, CSCI 104: [csci104/docker](https://github.com/csci104/docker)
 
 <br>
 
