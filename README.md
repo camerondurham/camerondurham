@@ -15,7 +15,7 @@
 :question:: Sometimes I like answering questions about Docker on StackOverflow. Here's my profile: [tentative](https://stackoverflow.com/users/story/4676641)
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&layout=compact&theme=buefy">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&langs_count=5&layout=compact&theme=buefy&hide=tex,vim%20script,powershell,makefile,sage">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camerondurham&theme=buefy&show_icons=true" />
     <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&langs_count=5&layout=compact&theme=buefy&hide=tex,vim%20script,powershell,makefile,sage" />
 
