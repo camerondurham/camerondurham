@@ -1,6 +1,6 @@
 ### hi there, i'm cam
 
-✌️:  I am a '21 [USC Viterbi](https://viterbischool.usc.edu/) grad and SDE at Amazon. My pronouns are [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself). I'm learning Rust and Go, want to learn Zig, and will always like C++.
+:v::  I am a '21 [USC Viterbi](https://viterbischool.usc.edu/) grad and SDE at Amazon. My pronouns are [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself). I'm learning Rust and Go, want to learn Zig, and will always like C++.
 
 <br>
 
