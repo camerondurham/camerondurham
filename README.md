@@ -4,7 +4,7 @@
 
 <br>
 
-:whale:: Currently I develop and maintain a Docker environment manager [ch](https://github.com/camerondurham/ch) written in Go. It's a general purpose tool for using containers to compile and debug code. It's used in USC's DS & A course, [CSCI 104](https://bytes.usc.edu/cs104/): [csci104/docker](https://github.com/csci104/docker)
+:whale:: I like containers. Currently I develop and maintain a Docker environment manager [ch](https://github.com/camerondurham/ch) written in Go. It's a general purpose tool for using containers to compile and debug code. It's used in USC's DS & A course, [CSCI 104](https://bytes.usc.edu/cs104/): [csci104/docker](https://github.com/csci104/docker)
 
 <br>
 
