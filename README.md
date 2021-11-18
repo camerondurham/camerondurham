@@ -4,7 +4,7 @@
 
 <br>
 
-:ship:: I like containers, [Docker](https://www.docker.com/), [k8s](https://kubernetes.io/) and [k3s](https://k3s.io/). I have a multi-arch k3s cluster I maintain in my apartment.
+:ship:: I like containers, [Docker](https://www.docker.com/), [k8s](https://kubernetes.io/) and [k3s](https://k3s.io/). I have a small, 6-node highly availablt k3s cluster I maintain in my apartment for test workloads.
 
 <br>
 
