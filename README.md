@@ -12,3 +12,4 @@
 - StackOverflow: [tentative](https://stackoverflow.com/users/story/4676641) (sometimes I like answering questions about Docker)
 - LinkedIn: [/in/cameron-durham](https://www.linkedin.com/in/cameron-durham/)
 - Unsplash: [@cmrnrd](https://unsplash.com/@cmrnrd)
+- Email: [cdurham@usc.edu](mailto:cdurham@usc.edu), [camrs@protonmail.com](mailto:camrs@protonmail.com)
