@@ -6,7 +6,7 @@
 - Learning: `.rs`, `.go`, and `.ts` but will always like `.cpp`
 - Interests: I like containers, distributed systems and compilers
 - Some Projects:
-  - A Docker environment manager [ch](https://github.com/camerondurham/ch) written in Go. It's a general purpose tool for using containers to compile and debug code used in USC's DS & A course, [CSCI 104](https://bytes.usc.edu/cs104/): [csci104/docker](https://github.com/csci104/docker)
+  - A Docker environment manager [ch](https://github.com/camerondurham/ch) written in Go. It's a general purpose tool for using containers to compile and debug code used in USC's DS & A course: [csci104/docker](https://github.com/csci104/docker)
   - Containers From Scratch in Rust [cfs-rs](https://github.com/camerondurham/cfs-rs) based on Liz Rice's great intro to containers.
 
 
