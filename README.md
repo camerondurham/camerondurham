@@ -12,6 +12,6 @@
 
 ## other
 
-- StackOverflow: [tentative](https://stackoverflow.com/users/story/4676641) (sometimes I like answering questions about Docker)
+- StackOverflow: [tentative](https://stackoverflow.com/users/story/4676641)
 - LinkedIn: [/in/cameron-durham](https://www.linkedin.com/in/cameron-durham/)
 - Site: [u64.cam](https://u64.cam)
