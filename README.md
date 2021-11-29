@@ -1,7 +1,7 @@
 # hi there, i'm cam
 
-- Background: graduated from [USC Viterbi](https://viterbischool.usc.edu/) in Computer Science
-- Work: SDE I at Amazon on working on listing platform data ingestion and precompute
+- Background: [USC Viterbi](https://viterbischool.usc.edu/) in Computer Science
+- Work: Backend/Distributed Systems at Amazon, listing platform data ingestion and precompute
 - Pronouns: [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself)
 - Learning: `.rs`, `.go`, and `.ts` but will always like `.cpp`
 - Interests: I like containers, distributed systems and compilers
