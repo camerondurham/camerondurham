@@ -8,7 +8,7 @@
 - Some Projects:
   - [ch](https://github.com/camerondurham/ch): A Docker environment manager written in Go. It's a general purpose tool for using containers to compile and debug code used in USC's DS & A course: [csci104/docker](https://github.com/csci104/docker)
   - [cfs-rs](https://github.com/camerondurham/cfs-rs) (Containers From Scratch in Rust): based on Liz Rice's great intro to containers.
-- GH [stats](https://github-readme-stats.vercel.app/api?username=camerondurham&show_icons=true&count_private=true)
+- GitHub [stats](https://github-readme-stats.vercel.app/api?username=camerondurham&show_icons=true&count_private=true)
 
 ## other
 
