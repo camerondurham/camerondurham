@@ -10,13 +10,13 @@
   - [cfs-rs](https://github.com/camerondurham/cfs-rs) (Containers From Scratch in Rust): based on Liz Rice's great intro to containers.
 - GitHub [stats](https://github-readme-stats.vercel.app/api?username=camerondurham&show_icons=true&count_private=true)
 
-## other
+### other
 
 - StackOverflow: [tentative](https://stackoverflow.com/users/story/4676641)
 - LinkedIn: [/in/cameron-durham](https://www.linkedin.com/in/cameron-durham/)
 - Site: [u64.cam](https://u64.cam)
 
-## some (mostly trivial) pr's
+### some (mostly trivial) pr's
 
 - [earthly/earthly PR #1244](https://github.com/earthly/earthly/pull/1244): implement `--required` ARGS in Earthfile
 - [amzn/ion-cli PR #13](https://github.com/amzn/ion-cli/pull/13): add Dockerfile to build Rust, C/C++ FFI project
