@@ -1,19 +1,20 @@
-# hi there, i'm cam
+# hi, i'm cam
 
 - background: [USC Viterbi](https://viterbischool.usc.edu/) in Computer Science
-- work: Amazon backend/distributed systems for listing platform data ingestion and precompute
+- work: Amazon listing platform data ingestion and precompute
 - pronouns: [they/them/theirs](https://pronoun.is/they/.../themselves) and [he/him/his](https://pronoun.is/he/.../himself)
 - learning: `.rs`, `.go`, and `.ts` but will always like `.cpp`
+
+<!--
 - recent projects:
   - [ch](https://github.com/camerondurham/ch): A Docker environment manager written in Go. It's a general purpose tool for using containers to compile and debug code used in USC's DS & A course: [csci104/docker](https://github.com/csci104/docker)
   - [cfs-rs](https://github.com/camerondurham/cfs-rs) (Containers From Scratch in Rust): based on Liz Rice's great intro to containers.
+
 
 ### some (mostly trivial) PRs
 
 - [earthly/earthly PR #1244](https://github.com/earthly/earthly/pull/1244): implement `--required` ARGS in Earthfile
 - [amzn/ion-cli PR #13](https://github.com/amzn/ion-cli/pull/13): add Dockerfile to build Rust, C FFI project
-
-<!--
 
 
 <div align="center">
