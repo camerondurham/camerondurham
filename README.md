@@ -13,10 +13,13 @@
 - [earthly/earthly PR #1244](https://github.com/earthly/earthly/pull/1244): implement `--required` ARGS in Earthfile
 - [amzn/ion-cli PR #13](https://github.com/amzn/ion-cli/pull/13): add Dockerfile to build Rust, C FFI project
 
+<!--
+
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=camerondurham"/>
 </div>
-<!--
+
 ### other
 
 - StackOverflow: [tentative](https://stackoverflow.com/users/story/4676641)
