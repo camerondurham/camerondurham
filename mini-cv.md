@@ -24,7 +24,7 @@
 - [MicrosoftDocs/windows-uwp PR #2998](https://github.com/MicrosoftDocs/windows-uwp/pull/2998): add context for `?` in Windows UMP Rust tutorial
 - [aws-amplify/docs #3128](https://github.com/aws-amplify/docs/pull/3128): add notes on papercuts when using structured types with AWS Lambda Go Runtime
 
-- github [stats](https://github-readme-stats.vercel.app/api?username=camerondurham&show_icons=true&count_private=true)
+- github [commit stats](https://github-readme-stats.vercel.app/api?username=camerondurham&show_icons=true&count_private=true), [lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&langs_count=10&layout=compact&theme=buefy)
 
 
 <div align="center">
