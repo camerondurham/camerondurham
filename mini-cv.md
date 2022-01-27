@@ -21,6 +21,8 @@
 - LinkedIn: [/in/cameron-durham](https://www.linkedin.com/in/cameron-durham/)
 - Site: [u64.cam](https://u64.cam)
 
+- PFP Picrew: https://picrew.me/image_maker/148413
+
 - [MicrosoftDocs/windows-uwp PR #2998](https://github.com/MicrosoftDocs/windows-uwp/pull/2998): add context for `?` in Windows UMP Rust tutorial
 - [aws-amplify/docs #3128](https://github.com/aws-amplify/docs/pull/3128): add notes on papercuts when using structured types with AWS Lambda Go Runtime
 
