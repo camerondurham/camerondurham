@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <sup><a href="https://github.com/camerondurham/camerondurham/blob/main/cv.md">oss contribution summary</a></sup>
+  <sup><a href="https://github.com/camerondurham/camerondurham/blob/main/cv.md#pull-requests">oss contribution summary</a></sup>
 </div>
 <!--
 
