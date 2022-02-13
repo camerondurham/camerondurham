@@ -1,7 +1,10 @@
 <div align="center">
-  <sup><a href="https://u64.cam">u64.cam</sup>
+  <sup><a href="https://u64.cam">u64.cam</a></sup>
 </div>
 
+<div align="center">
+  <sup><a href="https://github.com/camerondurham/camerondurham/blob/main/cv.md">oss contribution summary</a></sup>
+</div>
 <!--
 
 <div align="center">
