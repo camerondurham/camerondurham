@@ -18,8 +18,13 @@
 
 #### documentation
 
-- [MicrosoftDocs/windows-uwp PR #2998](https://github.com/MicrosoftDocs/windows-uwp/pull/2998): add context for `?` in Windows UMP Rust tutorial
+- [MicrosoftDocs/windows-uwp #2998](https://github.com/MicrosoftDocs/windows-uwp/pull/2998): add context for `?` in Windows UMP Rust tutorial
+- [MicrosoftDocs/terminal #193](https://github.com/MicrosoftDocs/terminal/pull/193): better details for Windows Terminal ssh profile creation
 - [aws-amplify/docs #3128](https://github.com/aws-amplify/docs/pull/3128): add notes on papercuts when using structured types with AWS Lambda Go Runtime
+- [rust-lang/this-week-in-rust #2865](https://github.com/rust-lang/this-week-in-rust/pull/2865): add Prime Video WASM/Rust blog post from Amazon Science
+- [cncf/contribute](https://github.com/cncf/contribute/pull/93): fix containerd contributing link
+- [awsdocs/aws-go-developer-guide #37](https://github.com/awsdocs/aws-go-developer-guide/pull/37): improve Go example rendering for S3 Glacier examples
+- [docker/docker.github.io #13495](https://github.com/docker/docker.github.io/pull/13495): fix Windows path troubleshooting link
 
 
 ### other
