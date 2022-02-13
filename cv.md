@@ -9,10 +9,17 @@
   - [cfs-rs](https://github.com/camerondurham/cfs-rs) (Containers From Scratch in Rust): based on Liz Rice's great intro to containers.
 
 
-### some (mostly trivial) PRs
+### pull requests
 
+#### code
 - [earthly/earthly PR #1244](https://github.com/earthly/earthly/pull/1244): implement `--required` ARGS in Earthfile
 - [amzn/ion-cli PR #13](https://github.com/amzn/ion-cli/pull/13): add Dockerfile to build Rust, C FFI project
+- [oracle/helidon #860](https://github.com/oracle/helidon/pull/860): improve project examples by using best practices for error handling
+
+#### documentation
+
+- [MicrosoftDocs/windows-uwp PR #2998](https://github.com/MicrosoftDocs/windows-uwp/pull/2998): add context for `?` in Windows UMP Rust tutorial
+- [aws-amplify/docs #3128](https://github.com/aws-amplify/docs/pull/3128): add notes on papercuts when using structured types with AWS Lambda Go Runtime
 
 
 ### other
@@ -20,16 +27,6 @@
 - StackOverflow: [tentative](https://stackoverflow.com/users/story/4676641)
 - LinkedIn: [/in/cameron-durham](https://www.linkedin.com/in/cameron-durham/)
 - Site: [u64.cam](https://u64.cam)
-
 - PFP Picrew: https://picrew.me/image_maker/148413
 
-- [MicrosoftDocs/windows-uwp PR #2998](https://github.com/MicrosoftDocs/windows-uwp/pull/2998): add context for `?` in Windows UMP Rust tutorial
-- [aws-amplify/docs #3128](https://github.com/aws-amplify/docs/pull/3128): add notes on papercuts when using structured types with AWS Lambda Go Runtime
 
-- github [commit stats](https://github-readme-stats.vercel.app/api?username=camerondurham&show_icons=true&count_private=true), [lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&langs_count=10&layout=compact&theme=buefy)
-- [oracle/helidon #860](https://github.com/oracle/helidon/pull/860): improve project examples by using best practices for error handling
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=camerondurham"/>
-</div>
