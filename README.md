@@ -5,6 +5,10 @@
 <div align="center">
   <sup><a href="https://github.com/camerondurham/camerondurham/blob/main/cv.md#pull-requests">oss contribution summary</a></sup>
 </div>
+
+<div align="center">
+  <sup><a href="https://picrew.me/image_maker/148413">pfp (picrew)</a></sup>
+</div>
 <!--
 
 <div align="center">
