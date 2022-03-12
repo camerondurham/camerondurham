@@ -12,6 +12,7 @@
 ### pull requests
 
 #### code
+- [amzn/ion-cli PR #22](https://github.com/amzn/ion-cli/pull/22): implement CLI tests and build workflow
 - [earthly/earthly PR #1244](https://github.com/earthly/earthly/pull/1244): implement `--required` ARGS in Earthfile
 - [amzn/ion-cli PR #13](https://github.com/amzn/ion-cli/pull/13): add Dockerfile to build Rust, C FFI project
 - [oracle/helidon #860](https://github.com/oracle/helidon/pull/860): improve project examples by using best practices for error handling
