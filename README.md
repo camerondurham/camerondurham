@@ -1,9 +1,9 @@
 <div align="center">
-  <sup><a href="https://u64.cam">u64.cam</a></sup>
+  <sup><a href="https://u64.cam">site (u64.cam)</a></sup>
 </div>
 
 <div align="center">
-  <sup><a href="https://github.com/camerondurham/camerondurham/blob/main/cv.md#pull-requests">oss contribution summary</a></sup>
+  <sup><a href="https://github.com/camerondurham/camerondurham/blob/main/cv.md#pull-requests">contributions (prs)</a></sup>
 </div>
 
 <div align="center">
