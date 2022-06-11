@@ -5,6 +5,8 @@
   <br>
   <sup><a href="https://picrew.me/image_maker/148413">pfp (picrew)</a></sup>
   <br>
+  <sup><a href="https://github.com/camerondurham/camerondurham/blob/main/dash.md">mini-dashboard</a></sup>
+  <br>
 </div>
 <!--
 
