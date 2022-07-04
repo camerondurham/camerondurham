@@ -3,8 +3,6 @@
   <br>
   <sup><a href="https://github.com/camerondurham/camerondurham/blob/main/cv.md#pull-requests">contributions (prs)</a></sup>
   <br>
-  <sup><a href="https://picrew.me/image_maker/148413">pfp (picrew)</a></sup>
-  <br>
   <details>
     <summary><sup>mini-dashboard</sup></summary>
     <div align="center">
@@ -29,6 +27,9 @@
 
 
 <!--
+
+  <sup><a href="https://picrew.me/image_maker/148413">pfp (picrew)</a></sup>
+  <br>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mkrl/misbrands/master/ferris.svg" width="300em" />
