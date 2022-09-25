@@ -3,6 +3,7 @@
   <br>
   <sup><a href="https://github.com/camerondurham/camerondurham/blob/main/cv.md#pull-requests">contributions (prs)</a></sup>
   <br>
+  <sup><a href="https://stackoverflow.com/users/4676641/cam">stackoverflow profile</a></sup>
   <details>
     <summary><sup>mini-dashboard</sup></summary>
     <div align="center">
