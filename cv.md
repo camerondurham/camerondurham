@@ -12,20 +12,22 @@
 ### pull requests
 
 #### code
-- [amzn/ion-cli PR #22](https://github.com/amzn/ion-cli/pull/22): implement CLI tests and build workflow
-- [earthly/earthly PR #1244](https://github.com/earthly/earthly/pull/1244): implement `--required` ARGS in Earthfile
-- [amzn/ion-cli PR #13](https://github.com/amzn/ion-cli/pull/13): add Dockerfile to build Rust, C FFI project
-- [oracle/helidon #860](https://github.com/oracle/helidon/pull/860): improve project examples by using best practices for error handling
+- [https://github.com/amzn/ion-cli/pull/22]: implement CLI tests and build workflow
+- [https://github.com/earthly/earthly/pull/1244]: implement `--required` ARGS in Earthfile
+- [https://github.com/amzn/ion-cli/pull/13]: add Dockerfile to build Rust, C FFI project
+- [https://github.com/oracle/helidon/pull/860]: improve project examples by using best practices for error handling
+- [https://github.com/metalbear-co/mirrord/pull/182]: select container for mirrord to impersonate in k8s pod
 
 #### documentation
 
-- [MicrosoftDocs/windows-uwp #2998](https://github.com/MicrosoftDocs/windows-uwp/pull/2998): add context for `?` in Windows UMP Rust tutorial
-- [MicrosoftDocs/terminal #193](https://github.com/MicrosoftDocs/terminal/pull/193): better details for Windows Terminal ssh profile creation
-- [aws-amplify/docs #3128](https://github.com/aws-amplify/docs/pull/3128): add notes on papercuts when using structured types with AWS Lambda Go Runtime
-- [rust-lang/this-week-in-rust #2865](https://github.com/rust-lang/this-week-in-rust/pull/2865): add Prime Video WASM/Rust blog post from Amazon Science
-- [cncf/contribute](https://github.com/cncf/contribute/pull/93): fix containerd contributing link
-- [awsdocs/aws-go-developer-guide #37](https://github.com/awsdocs/aws-go-developer-guide/pull/37): improve Go example rendering for S3 Glacier examples
-- [docker/docker.github.io #13495](https://github.com/docker/docker.github.io/pull/13495): fix Windows path troubleshooting link
+- [https://github.com/MicrosoftDocs/windows-uwp/pull/2998]: add context for `?` in Windows UMP Rust tutorial
+- [https://github.com/MicrosoftDocs/terminal/pull/193]: better details for Windows Terminal ssh profile creation
+- [https://github.com/aws-amplify/docs/pull/3128]: add notes on papercuts when using structured types with AWS Lambda Go Runtime
+- [https://github.com/rust-lang/this-week-in-rust/pull/2865]: add Prime Video WASM/Rust blog post from Amazon Science
+- [https://github.com/cncf/contribute/pull/93]: fix containerd contributing link
+- [https://github.com/awsdocs/aws-go-developer-guide/pull/37]: improve Go example rendering for S3 Glacier examples
+- [https://github.com/docker/docker.github.io/pull/13495]: fix Windows path troubleshooting link
+- [https://github.com/ethereum/ethereum-org-website/pull/7679]: fix deep link in wiki's glossary
 
 
 ### other
