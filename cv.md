@@ -35,6 +35,7 @@
 - StackOverflow: [tentative](https://stackoverflow.com/users/story/4676641)
 - LinkedIn: [/in/cameron-durham](https://www.linkedin.com/in/cameron-durham/)
 - Site: [u64.cam](https://u64.cam)
-- PFP Picrew: https://picrew.me/image_maker/148413
+- Current Headshot: amazon badge photo (don't remember who to credit)
+- (old) PFP Picrew: https://picrew.me/image_maker/148413
 
 
