@@ -1,31 +1,15 @@
 <div align="center">
-  <sup><a href="https://u64.cam">site (u64.cam)</a></sup>
-  <br>
-  <sup><a href="https://github.com/camerondurham/camerondurham/blob/main/cv.md#pull-requests">contributions (prs)</a></sup>
-  <br>
-  <sup><a href="https://stackoverflow.com/users/4676641/cam">stackoverflow profile</a></sup>
-  <details>
-    <summary><sup>mini-dashboard</sup></summary>
-    <div align="center">
-  <a href="https://github.com/jstrieb/github-stats">
+  
+|website: [u64.cam](https://u64.cam)|[contributions](https://github.com/camerondurham/camerondurham/blob/main/cv.md#pull-requests)|stackoverflow [profile](https://stackoverflow.com/users/4676641/cam)|[contact](mailto:u64.cam@gmail.com)|
+|------|------|-------|--------|
 
-  ![](https://github.com/camerondurham/github-stats/blob/master/generated/overview.svg)
-  ![](https://github.com/camerondurham/github-stats/blob/master/generated/languages.svg)
-
-  </a>
+ 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/camerondurham" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tentativeturing&bg_color=f5f5f5&langs_count=5&layout=compact&text_color=400080&hide_border=true&hide_title=true" alt="Github" />
-</a>
-
-</div>
-  </details>
-</div>
-
-
+Currently reading: 
+- Designing Data-Intensive Applications (Martin Kleppmann): https://www.amazon.com/dp/1449373321
+- Rust In Action (Tim McNamara): https://www.manning.com/books/rust-in-action
+- Rust for Rustaceans (Jon Gjengset): https://nostarch.com/rust-rustaceans
 
 <!--
 
