@@ -7,9 +7,12 @@
 </div>
 
 Currently reading: 
-- Designing Data-Intensive Applications (Martin Kleppmann): https://www.amazon.com/dp/1449373321
-- Rust In Action (Tim McNamara): https://www.manning.com/books/rust-in-action
+- Designing Data-Intensive Applications (Martin Kleppmann): https://www.smile.amazon.com/dp/1449373321
+
+Not actively reading but hightly recommended:
 - Rust for Rustaceans (Jon Gjengset): https://nostarch.com/rust-rustaceans
+- Rust In Action (Tim McNamara): https://www.manning.com/books/rust-in-action
+- Go Programming Language: https://smile.amazon.com/dp/0134190440
 
 <!--
 
