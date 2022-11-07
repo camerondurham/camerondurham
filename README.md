@@ -1,7 +1,7 @@
 <div align="center">
   
-|website: [u64.cam](https://u64.cam)|[contributions](https://github.com/camerondurham/camerondurham/blob/main/cv.md#pull-requests)|stackoverflow [profile](https://stackoverflow.com/users/4676641/cam)|[contact](mailto:u64.cam@gmail.com)|
-|------|------|-------|--------|
+|[u64.cam](https://u64.cam)|[contributions](https://github.com/camerondurham/camerondurham/blob/main/cv.md#pull-requests)|[stackoverflow](https://stackoverflow.com/users/4676641/cam)|[email](mailto:u64.cam@gmail.com)|[linkedin](https://www.linkedin.com/in/cameron-durham/)
+|------|------|-------|--------|--------|
 
  
 </div>
