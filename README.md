@@ -7,7 +7,7 @@
 </div>
 
 Currently reading: 
-- Designing Data-Intensive Applications (Martin Kleppmann): https://www.smile.amazon.com/dp/1449373321
+- Designing Data-Intensive Applications (Martin Kleppmann): https://smile.amazon.com/dp/1449373321
 
 Not actively reading but hightly recommended:
 - Rust for Rustaceans (Jon Gjengset): https://nostarch.com/rust-rustaceans
