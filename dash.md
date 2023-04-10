@@ -13,4 +13,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tentativeturing&bg_color=f5f5f5&langs_count=5&layout=compact&text_color=400080&hide_border=true&hide_title=true" alt="Github" />
 </a>
 
+
+  <a href="https://github.com/camerondurham" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=camerondurham&bg_color=f5f5f5&show_icons=true&count_private=true&hide_border=true&text_color=400080&hide_title=true"
+          alt="Github" />
+  </a>
+  <a href="https://github.com/camerondurham" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camerondurham&bg_color=f5f5f5&langs_count=20&layout=compact&text_color=400080&hide_border=true&hide_title=true"
+          alt="Github" />
+  </a>
+
 </div>
