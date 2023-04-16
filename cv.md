@@ -28,7 +28,7 @@
 - [https://github.com/awsdocs/aws-go-developer-guide/pull/37]: improve Go example rendering for S3 Glacier examples
 - [https://github.com/docker/docker.github.io/pull/13495]: fix Windows path troubleshooting link
 - [https://github.com/ethereum/ethereum-org-website/pull/7679]: fix deep link in wiki's glossary
-
+- [https://github.com/NixOS/nixpkgs/pull/224335]: upgrade earthly CLI version nixpkgs
 
 ### other
 
