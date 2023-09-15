@@ -4,6 +4,9 @@
   ![](https://github.com/camerondurham/github-stats/blob/master/generated/overview.svg)
   ![](https://github.com/camerondurham/github-stats/blob/master/generated/languages.svg)
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camerondurham&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camerondurham&theme=github)
   </a>
 </div>
 
