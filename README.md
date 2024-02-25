@@ -7,12 +7,13 @@
 </div>
 
 Currently reading: 
-- Designing Data-Intensive Applications (Martin Kleppmann): https://smile.amazon.com/dp/1449373321
+- Designing Data-Intensive Applications (Martin Kleppmann): https://amazon.com/dp/1449373321
+- The Pragmatic Programmer (David Thomas & Andrew Hunt): https://amazon.com/dp/B07VRS84D1
 
 Not actively reading but hightly recommended:
 - Rust for Rustaceans (Jon Gjengset): https://nostarch.com/rust-rustaceans
 - Rust In Action (Tim McNamara): https://www.manning.com/books/rust-in-action
-- Go Programming Language: https://smile.amazon.com/dp/0134190440
+- Go Programming Language: https://amazon.com/dp/0134190440
 
 <!--
 
