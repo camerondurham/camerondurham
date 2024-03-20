@@ -7,8 +7,8 @@
 </div>
 
 Currently reading: 
-- Designing Data-Intensive Applications (Martin Kleppmann): https://amazon.com/dp/1449373321
-- The Pragmatic Programmer (David Thomas & Andrew Hunt): https://amazon.com/dp/B07VRS84D1
+- Designing Data-Intensive Applications (Martin Kleppmann): [https://amazon.com/dp/1449373321](https://amzn.to/3vfG7Of)
+- The Pragmatic Programmer (David Thomas & Andrew Hunt): [https://amazon.com/dp/B07VRS84D1](https://amzn.to/4ahVzbo)
 
 Not actively reading but hightly recommended:
 - Rust for Rustaceans (Jon Gjengset): https://nostarch.com/rust-rustaceans
