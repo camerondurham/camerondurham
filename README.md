@@ -6,11 +6,12 @@
  
 </div>
 
-Currently reading: 
+Currently reading:
+- The Software Engineer's Guidebook [https://www.amazon.com/dp/908338182X](https://amzn.to/4bPq8r7)
 - Designing Data-Intensive Applications (Martin Kleppmann): [https://amazon.com/dp/1449373321](https://amzn.to/3vfG7Of)
-- The Pragmatic Programmer (David Thomas & Andrew Hunt): [https://amazon.com/dp/B07VRS84D1](https://amzn.to/4ahVzbo)
 
 Not actively reading but hightly recommended:
+- The Pragmatic Programmer (David Thomas & Andrew Hunt): [https://amazon.com/dp/B07VRS84D1](https://amzn.to/4ahVzbo)
 - Rust for Rustaceans (Jon Gjengset): https://nostarch.com/rust-rustaceans
 - Rust In Action (Tim McNamara): https://www.manning.com/books/rust-in-action
 - Go Programming Language: https://amazon.com/dp/0134190440
