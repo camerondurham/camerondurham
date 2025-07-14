@@ -6,6 +6,8 @@
  
 </div>
 
+<!--
+
 Currently reading:
 - The Software Engineer's Guidebook [https://www.amazon.com/dp/908338182X](https://amzn.to/4bPq8r7)
 - Designing Data-Intensive Applications (Martin Kleppmann): [https://amazon.com/dp/1449373321](https://amzn.to/3vfG7Of)
@@ -15,8 +17,6 @@ Not actively reading but hightly recommended:
 - Rust for Rustaceans (Jon Gjengset): https://nostarch.com/rust-rustaceans
 - Rust In Action (Tim McNamara): https://www.manning.com/books/rust-in-action
 - Go Programming Language: https://amazon.com/dp/0134190440
-
-<!--
 
   <sup><a href="https://picrew.me/image_maker/148413">pfp (picrew)</a></sup>
   <br>
